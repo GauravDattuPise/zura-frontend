@@ -1,0 +1,41 @@
+
+.btn {
+    background: rgba(0, 0, 0, 0.771) !important;
+    color: white !important;
+    border-radius: 8px !important;
+    text-transform: capitalize !important;
+    font-size: larger !important;
+  }
+  
+  .btn:hover {
+    background-color: rgba(0, 0, 0, 0.94) !important;
+    border-radius: 10px !important;
+  }
+  
+  .plus-icon {
+    background-color: white;
+    color: black;
+    padding: 4px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  
+  .error {
+    color: red;
+  }
+  
+  .create-btn {
+    margin-top: 0px;
+    width: 80px !important;
+    background: rgb(18, 18, 191) !important;
+    text-transform: capitalize !important;
+    color: white !important;
+    font-weight: bold;
+    position: static;
+  }
+  
+  .dialog-text-field {
+    width: 450px;
+    margin-top: 10px !important
+  }
